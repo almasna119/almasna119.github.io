@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on News Update</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on News Update</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terkini</title>
+      <link>http://localhost:1313/categories/terkini/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/terkini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olahraga</title>
+      <link>http://localhost:1313/categories/olahraga/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/olahraga/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

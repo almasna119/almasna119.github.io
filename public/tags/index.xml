@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on News Update</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on News Update</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bencana Alam</title>
+      <link>http://localhost:1313/tags/bencana-alam/</link>
+      <pubDate>Fri, 02 Aug 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bencana-alam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gempa Bumi</title>
+      <link>http://localhost:1313/tags/gempa-bumi/</link>
+      <pubDate>Fri, 02 Aug 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gempa-bumi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olimpiade</title>
+      <link>http://localhost:1313/tags/olimpiade/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/olimpiade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pmi</title>
+      <link>http://localhost:1313/tags/pmi/</link>
+      <pubDate>Thu, 01 Aug 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pmi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seminar</title>
+      <link>http://localhost:1313/tags/seminar/</link>
+      <pubDate>Tue, 30 Jul 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/seminar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tki</title>
+      <link>http://localhost:1313/tags/tki/</link>
+      <pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tki/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
